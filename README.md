@@ -30,4 +30,4 @@ Simple react native to do list
  ```
 
  ---
- Copyright © 2020 I Putu Saputrayana (Iyan Saputra)
+ Copyright © 2024 Alan Pinheiro
